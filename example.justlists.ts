@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"NUT",
+            "address":"TC8dPoGUCWXZWMiPnfQnDVtaA5xoDamyVo",
+            "chainId":1,
+            "decimals":18,
+            "name":"NUT",
+            "logoURI":"https://i.imgur.com/byZbWDk.jpeg"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
@@ -128,5 +136,5 @@
         "major":1,
         "minor":0
     },
-    "timestamp":1611147166000
+    "timestamp":1724383851000
 }
